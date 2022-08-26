@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Cb doll.png" width="1938" height="1895">
+  <SubTexture name="Up2.png" x="0" y="0"  width="313" height="647" frameX="-477" frameY="-29" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Up1.png" x="0" y="647"  width="316" height="632" frameX="-468" frameY="-43" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Left2.png" x="313" y="0"  width="351" height="622" frameX="-483" frameY="-54" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Left1.png" x="0" y="1279"  width="353" height="616" frameX="-482" frameY="-60" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle-4.png" x="316" y="622"  width="323" height="615" frameX="-461" frameY="-60" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Right1.png" x="353" y="1237"  width="328" height="613" frameX="-444" frameY="-60" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Right2.png" x="639" y="622"  width="341" height="611" frameX="-432" frameY="-63" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle-3.png" x="664" y="0"  width="336" height="604" frameX="-460" frameY="-70" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle-2.png" x="980" y="604"  width="339" height="598" frameX="-460" frameY="-74" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle-1.png" x="1000" y="0"  width="352" height="588" frameX="-455" frameY="-83" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Down1.png" x="1352" y="0" width="586" height="358" rotated="true"  frameX="-448" frameY="-91" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Down2.png" x="1352" y="358" width="572" height="360" rotated="true"  frameX="-448" frameY="-105" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
